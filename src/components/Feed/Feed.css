@@ -4,7 +4,7 @@
     grid-column-gap:16px;
     grid-row-gap:30px;
     margin-top:15px;
-     
+     color: white;
 }
 
 .card img{
@@ -15,14 +15,14 @@
 .card h2{
     font-size: 16px;
     font-weight: 600;
-    color: #000;
+    /* color: #000; */
     margin: 5px 0;
 }
 
 .card h3{
     font-size: 14px;
     font-weight: 600;
-    color: #555;
+    /* color: #555; */
     margin: 6px 0;
 }
 

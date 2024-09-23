@@ -1,29 +1,40 @@
 .recommended{
     flex-basis: 30%;
+    color: purple;
 }
 .side-video-list{
     display: flex;
     justify-content: space-between;
     margin-bottom: 8px;
+
+    color:purple;
 }
 
 
 .side-video-list img{
     flex-basis: 49%;
     width: 50%;
+
+    color:purple;
 }
 
 .vid-info{
     flex-basis: 49%;
+
+    color:purple;
 }
 
 .vid-info h4{
     font-size: 13px;
     margin-bottom: 5px;
+
+    color:purple;
 } 
 
 @media (max-width:900px) {
     .recommended{
         flex-basis: 100%;
+
+        color:purple;
     }
 }

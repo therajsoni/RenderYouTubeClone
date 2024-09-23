@@ -13,7 +13,8 @@ import { BioContext } from './context'
 const App = () => {
 
   const {setMenu} = useContext(BioContext);
-  document.body.style.backgroundColor = "orange"
+  document.body.style.backgroundColor = "purple"
+  document.body.style.color = "white"
 
   const [sidebar,setSidebar] = useState(true);
  useEffect(()=>{
