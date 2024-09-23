@@ -1,0 +1,13 @@
+.play-container{
+    background: orange;
+    padding: 20px 2%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+@media (max-width:900px) {
+    .play-container{
+        padding: 0 5%;
+    }
+}
